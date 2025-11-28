@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Tendo Hassan👋
 
 ### 💻 About Me
 - 🔭 I’m currently working on [what you're working on]
