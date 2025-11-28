@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**tendohassan/tendohassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 🔭 I’m currently working on [what you're working on]
+- 🌱 I’m currently learning [java]
+- 👯 I’m looking to collaborate on [java projects]
+- 💬 Ask me about [html css mongoDB javascript]
+- 📫 How to reach me: [tendohassan004@gmail.com]
+- ⚡ Fun fact: [i love peanuts]
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+- **Languages:** JavaScript, Python, Java, html css etc.
+- **Frameworks:** React, Node.js, Express, etc.
+- **Tools:** Git, Docker, VS Code, etc.
+- **Databases:** MongoDB, PostgreSQL, MySQL, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
